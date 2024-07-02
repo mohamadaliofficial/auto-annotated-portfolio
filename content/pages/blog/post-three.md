@@ -4,7 +4,9 @@ title: هل تبحث عن فوائد العسل على الريق؟
 colors: colors-b
 date: '2024-02-07'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  تناول العسل في أي وقت من اليوم سيجلب لك نفس الفوائد. ولكن بدء يومك بملعقة عسل
+  له فوائد إضافية.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image3.jpg
