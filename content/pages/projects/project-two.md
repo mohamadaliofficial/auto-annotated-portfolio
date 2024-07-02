@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Link in Bio project
 colors: colors-a
-date: '0010-01-01'
+date: '0202-01-01'
 client: Awesome client
 description: >-
   linkin.vip is the best social bio link platform you’ll ever need, including a
