@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/موقع الشامل.jpg
-  altText: Project thumbnail image
+  altText: الشامل
 media:
   type: ImageBlock
   url: /images/bg3.jpg
