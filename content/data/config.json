@@ -21,7 +21,7 @@
             {
                 "type": "Link",
                 "label": "وظائف",
-                "altText": "",
+                "altText": "وظائف",
                 "url": "https://moaliofficial.com/jobs/",
                 "showIcon": false,
                 "icon": "arrowRight",
