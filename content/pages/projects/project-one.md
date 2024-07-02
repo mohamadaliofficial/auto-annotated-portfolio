@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/gallery-3.jpg
-  altText: Project thumbnail image
+  altText: 'https://alchamel.net/'
 media:
   type: ImageBlock
   url: /images/bg1.jpg
