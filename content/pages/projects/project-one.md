@@ -12,7 +12,7 @@ featuredImage:
   type: ImageBlock
   url: /images/gallery-3.jpg
   altText: وظائف
-  caption: 'https://alchamel.net/'
+  caption: وظائف محمد علي
 media:
   type: ImageBlock
   url: /images/bg1.jpg
