@@ -15,7 +15,7 @@ featuredImage:
   caption: Do everything with one platform
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Link in Bio (2).png
   altText: Project image
 ---
 
