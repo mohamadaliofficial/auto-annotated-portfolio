@@ -12,7 +12,7 @@ featuredImage:
   caption: ' أكبر موقع عربي شامل لإثراء المحتوى على الإنترنت'
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/gallery-1.jpg
   altText: Project image
 ---
 
