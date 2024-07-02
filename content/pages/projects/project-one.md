@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/gallery-3.jpg
-  altText: 'https://alchamel.net/'
+  altText: وظائف
   caption: 'https://alchamel.net/'
 media:
   type: ImageBlock
