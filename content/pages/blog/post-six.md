@@ -4,7 +4,10 @@ title: فوائد السيروم للوجه والبشرة مهمة جدا
 colors: colors-a
 date: '2024-02-07'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  السيروم هي نوع من منتجات العناية بالبشرة خفيفة الوزن ومركزة. أنها تحتوي على
+  جرعة عالية من المكونات النشطة التي يمكن استخدامها لمعالجة مجموعة متنوعة من
+  مشاكل البشرة.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
