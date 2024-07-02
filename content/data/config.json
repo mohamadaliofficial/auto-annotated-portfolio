@@ -11,7 +11,7 @@
             {
                 "type": "Link",
                 "label": "Link in Bio",
-                "altText": "",
+                "altText": "Link in Bio",
                 "url": "https://linkin.vip/",
                 "showIcon": false,
                 "icon": "arrowRight",
