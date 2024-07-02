@@ -20,6 +20,16 @@
             },
             {
                 "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "https://moaliofficial.com/jobs/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "label": "الشامل",
                 "url": "https://alchamel.net/",
                 "altText": "الشامل "
