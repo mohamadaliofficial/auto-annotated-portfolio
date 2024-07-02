@@ -4,7 +4,10 @@ title: ما هو غسول الفم الأفضل لك؟
 colors: colors-a
 date: '2024-02-01'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  يعتمد غسول الفم “الأفضل” في النهاية على الغرض الذي تحتاج إلى استخدامه من أجله.
+  يمكن استخدام غسول الفم كجزء من روتين نظافة الفم اليومي أو للمساعدة في التعافي
+  من التقرحات.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
