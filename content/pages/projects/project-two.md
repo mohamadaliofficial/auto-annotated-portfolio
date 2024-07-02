@@ -20,6 +20,7 @@ media:
   caption: >-
     The only social bio link platform you’ll ever need, including a
     fully-featured URL Shortener, a QR Codes system & a Web Tools system
+metaDescription: 'link in bio, '
 ---
 [Link in Bio](https://linkin.vip/) (linkin.vip) is a popular feature on social networking sites. 
 
