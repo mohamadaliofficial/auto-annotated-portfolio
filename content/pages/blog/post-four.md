@@ -2,7 +2,7 @@
 type: PostLayout
 title: ما هو غسول الفم الأفضل لك؟
 colors: colors-a
-date: ''
+date: '2024-02-07'
 author: content/data/team/doris-soto.json
 excerpt: >-
   يعتمد غسول الفم “الأفضل” في النهاية على الغرض الذي تحتاج إلى استخدامه من أجله.
