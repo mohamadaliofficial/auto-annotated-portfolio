@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Link in Bio (2).png
-  altText: Project thumbnail image
+  altText: Link in Bio
 media:
   type: ImageBlock
   url: /images/bg2.jpg
