@@ -20,7 +20,9 @@ media:
   caption: >-
     The only social bio link platform you’ll ever need, including a
     fully-featured URL Shortener, a QR Codes system & a Web Tools system
-metaDescription: 'link in bio, '
+metaDescription: >-
+  LINKIN.VIP IS THE BEST SOCIAL BIO LINK PLATFORM YOU’LL EVER NEED, INCLUDING A
+  FULLY-FEATURED URL SHORTENER, A QR CODES SYSTEM & A WEB TOOLS SYSTEM 
 ---
 [Link in Bio](https://linkin.vip/) (linkin.vip) is a popular feature on social networking sites. 
 
