@@ -49,13 +49,6 @@
                 "url": "https://www.instagram.com/alchamelnet",
                 "icon": "instagram",
                 "elementId": ""
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
             }
         ],
         "styles": {
