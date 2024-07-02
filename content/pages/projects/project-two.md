@@ -5,9 +5,9 @@ colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: >-
-  66biolinks (former phpBiolinks) is the only social bio link platform you’ll
-  ever need, including a fully-featured URL Shortener, a QR Codes system & a Web
-  Tools system featuring 120 useful tools.
+  linkin.vip is the best social bio link platform you’ll ever need, including a
+  fully-featured URL Shortener, a QR Codes system & a Web Tools system featuring
+  120 useful tools.
 featuredImage:
   type: ImageBlock
   url: /images/Link in Bio (2).png
