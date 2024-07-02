@@ -4,10 +4,7 @@ title: موقع الشامل
 colors: colors-a
 date: '2024-01-01'
 client: الشامل
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: أهلا بك في موقع الشامل - أكبر موقع عربي شامل لإثراء المحتوى على الإنترنت
 featuredImage:
   type: ImageBlock
   url: /images/موقع الشامل.jpg
