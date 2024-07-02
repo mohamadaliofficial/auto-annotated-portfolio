@@ -10,7 +10,7 @@ description: >-
   الأول هو تحسين جودة المحتوى العربي على الإنترنت 
 featuredImage:
   type: ImageBlock
-  url: /images/موقع الشامل.jpg
+  url: /images/gallery-1.jpg
   altText: الشامل
   caption: ' أكبر موقع عربي شامل لإثراء المحتوى على الإنترنت'
 media:
