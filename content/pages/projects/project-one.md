@@ -12,6 +12,7 @@ featuredImage:
   type: ImageBlock
   url: /images/gallery-3.jpg
   altText: 'https://alchamel.net/'
+  caption: 'https://alchamel.net/'
 media:
   type: ImageBlock
   url: /images/bg1.jpg
