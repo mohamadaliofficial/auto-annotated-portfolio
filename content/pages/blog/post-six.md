@@ -2,7 +2,7 @@
 type: PostLayout
 title: فوائد السيروم للوجه والبشرة مهمة جدا
 colors: colors-a
-date: '2024-06-03'
+date: '2024-02-03'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
