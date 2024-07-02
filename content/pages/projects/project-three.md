@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: موقع الشامل
 colors: colors-a
-date: '0202-01-01'
+date: '2024-01-01'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
