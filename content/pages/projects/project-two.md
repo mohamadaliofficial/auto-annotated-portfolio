@@ -12,6 +12,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Link in Bio (2).png
   altText: Link in Bio
+  caption: Do everything with one platform
 media:
   type: ImageBlock
   url: /images/bg2.jpg
