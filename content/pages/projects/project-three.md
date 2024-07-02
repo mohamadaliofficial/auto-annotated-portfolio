@@ -12,6 +12,7 @@ featuredImage:
   type: ImageBlock
   url: /images/موقع الشامل.jpg
   altText: الشامل
+  caption: ' أكبر موقع عربي شامل لإثراء المحتوى على الإنترنت'
 media:
   type: ImageBlock
   url: /images/bg3.jpg
